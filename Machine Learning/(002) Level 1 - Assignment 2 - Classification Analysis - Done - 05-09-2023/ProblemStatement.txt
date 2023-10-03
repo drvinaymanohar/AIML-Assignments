@@ -1,0 +1,22 @@
+ASSIGNMENT 2 - Classification
+
+Classification Analysis - Dry Beans Classification
+
+Problem Statement :
+
+Explore Dry Beans Classification using models which will help us to recognize the type of beans.
+
+Dataset Link : https://drive.google.com/drive/folders/11caqwnxX107ieNCke0Xi9ur152n04p3L?usp=share_link
+
+
+What Kind Of Approach You Could Follow for your Problem Statements :
+
+Reading the Data,
+Understanding the Data,
+Exploratory Data Analysis,
+Splitting the Data,
+Training and Testing,
+Modeling,
+Accuracy
+
+Hints provided are only for your references or getting started. You’re free to use your own methodology to work on your assignments.
